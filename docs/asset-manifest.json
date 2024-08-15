@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/create_modern_navbar_with_react_tailwind/static/css/main.c833fee8.css",
+    "main.js": "/create_modern_navbar_with_react_tailwind/static/js/main.ebda1b25.js",
+    "index.html": "/create_modern_navbar_with_react_tailwind/index.html",
+    "main.c833fee8.css.map": "/create_modern_navbar_with_react_tailwind/static/css/main.c833fee8.css.map",
+    "main.ebda1b25.js.map": "/create_modern_navbar_with_react_tailwind/static/js/main.ebda1b25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c833fee8.css",
+    "static/js/main.ebda1b25.js"
+  ]
+}
